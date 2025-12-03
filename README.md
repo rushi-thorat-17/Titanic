@@ -5,7 +5,7 @@ Using only **simple plots** (bar charts, histograms, boxplots, violin plots), th
 
 - Who survived 🎯  
 - How **class, gender, age, family, fare, and port** affected survival  
-:contentReference[oaicite:0]{index=0}  
+
 
 ---
 
