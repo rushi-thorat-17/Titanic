@@ -26,7 +26,7 @@ The main aim is to identify the **strongest survival predictors** and see how **
 
 ## 🎯 Analysis Agenda
 
-The EDA is structured around these questions: :contentReference[oaicite:2]{index=2}  
+The EDA is structured around these questions: : 
 
 1. **Overall Survival Rate** – How many survived vs. did not survive?  
 2. **Gender Impact** – Did females survive more than males?  
@@ -47,9 +47,8 @@ The notebook uses **clean, simple plots** suitable for beginners:
 - Bar chart – **Survival Rate by Passenger Class**
 - Histogram – **Age Distribution (Children, Adults, Seniors)**
 - Bar / Count Plot – **Solo vs Family Travellers**
-- Boxplot – **Fare Distribution by Class** :contentReference[oaicite:3]{index=3}  
-- Violin plot – **Fare by Embarked Port (C/Q/S)** :contentReference[oaicite:4]{index=4}  
-
+- Boxplot – **Fare Distribution by Class** : 
+- Violin plot – **Fare by Embarked Port (C/Q/S)** :
 No complex dashboards, just **clear plots** that tell a story.
 
 ---
@@ -58,21 +57,20 @@ No complex dashboards, just **clear plots** that tell a story.
 
 - **Age Distribution**  
   - Adults form the largest group.  
-  - Children are fewer, seniors are very few. :contentReference[oaicite:5]{index=5}  
+  - Children are fewer, seniors are very few. :  
 
 - **Class & Survival**  
   - 1st class shows the **highest survival share**.  
   - 2nd class has moderate survival.  
-  - 3rd class has the **lowest survival percentage**. :contentReference[oaicite:6]{index=6}  
+  - 3rd class has the **lowest survival percentage**. :
 
 - **Fare & Class**  
   - 1st class passengers paid the highest fares.  
-  - 3rd class has the lowest and tightest fare range. :contentReference[oaicite:7]{index=7}  
-
+  - 3rd class has the lowest and tightest fare range. :
 - **Fare & Embarkation Port**  
   - Port **C** shows the highest fare variation.  
   - Port **S** mostly has low-fare passengers.  
-  - Port **Q** has limited variation and mostly low fares. :contentReference[oaicite:8]{index=8}  
+  - Port **Q** has limited variation and mostly low fares. :
 
 (Additional notes on **gender** and **solo vs family** survival are explored visually in the notebook.)
 
